@@ -12,3 +12,6 @@ http://rhadoop1.largitdata.com/
 
 Machine3
 http://rhadoop2.largitdata.com/
+
+Passwd:
+rh!QAZ
