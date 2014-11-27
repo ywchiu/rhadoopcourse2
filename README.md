@@ -1,4 +1,6 @@
-rhadoopcourse2
+2014/11/27 Rhadoop Course 2
 ==============
 
-rhadoopcourse2
+Slides:
+http://www.slideshare.net/secret/CYBeiMi6X95vJ1
+
